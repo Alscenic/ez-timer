@@ -1,4 +1,4 @@
-#ezTimer
+# ezTimer
 
 it's very easy to use
 
